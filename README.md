@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @SonyaXu
-- ⭐ a sophomore major in CS
-- 📫 How to reach me :sxliuyixu@outlook.com
+一个字 帅
